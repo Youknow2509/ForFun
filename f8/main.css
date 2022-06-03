@@ -1,0 +1,19 @@
+/* đặt biến */
+:root{
+    --text-color: rgb(228, 30, 15);
+}
+h1{
+    color: var(--text-color);
+    font-size: 60px;
+}
+/* root là đạt biết trong cả file css  */
+/* còn " --: trong thẻ thì chỉ dùng trong thẻ */
+
+body{
+    width: 110%;
+    height: 100%;
+    background-image: url(https://image.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg
+    );
+    /* background-repeat: no-repeat; */
+    background-size: contain;
+}
