@@ -42,6 +42,5 @@ while True:
     print("Robot: " + robot_brain)
     #chu thanh am noi
 
-
     robot_mouth.say(robot_brain)
     robot_mouth.runAndWait()
