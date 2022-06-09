@@ -7,9 +7,9 @@ class Voxel(Button):
             parent = scene,
             position = position,
             model = 'cube',
-            origin_y = 0.4,
+            origin_y = 0.8,
             texture = 'white_cube',
-            color = color.color(0,0,random.uniform(0.8,1)),
+            color = color.color(0,0,random.uniform(2.2,1)),
             highlight_color = color.lime)
     def input(self,key):
         if self.hovered:
