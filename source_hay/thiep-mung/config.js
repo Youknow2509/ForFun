@@ -1,8 +1,9 @@
-const nameGirl = 'Thằng đb';
-const giftUrl = 'https://www.instagram.com/_youknow.2509_/';
-const eventName = 'Ấn vào đây đi ';
+const nameGirl = 'Iu iem';
+// const giftUrl = 'https://www.instagram.com/_youknow.2509_/';
+const giftUrl = 'https://www.facebook.com/hanosiudangiu';
+const eventName = 'Ấn vào đây đi zịt';
 const titleCard = 'Tặng con heo';
-const contentCard = 'Lew Lew đồ ngốc';
+const contentCard = 'Lew Lew';
 
 
 const giftImage = 'hot-girl.png';
